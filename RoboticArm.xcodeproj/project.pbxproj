@@ -28,6 +28,7 @@
 		271FCAE11C98109C00DDC4C5 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		271FCAE21C98109C00DDC4C5 /* View.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = View.c; sourceTree = "<group>"; };
 		271FCAE31C98109C00DDC4C5 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
+		27D077B81CB50955005737D1 /* demoP5CIUT3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demoP5CIUT3.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		271FCAD91C98107E00DDC4C5 /* RoboticArm */ = {
 			isa = PBXGroup;
 			children = (
+				27D077B81CB50955005737D1 /* demoP5CIUT3.gif */,
 				271FCAE11C98109C00DDC4C5 /* main.c */,
 				271FCAE21C98109C00DDC4C5 /* View.c */,
 				271FCAE31C98109C00DDC4C5 /* View.h */,
@@ -245,6 +247,7 @@
 				271FCAE01C98107E00DDC4C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
